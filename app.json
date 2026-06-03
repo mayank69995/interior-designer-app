@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "Interior Designer AI",
+    "slug": "interior-designer-ai",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "backgroundColor": "#0d0d0d"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#0d0d0d"
+      },
+      "package": "com.mayank69995.interiordesigner"
+    }
+  }
+}
